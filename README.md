@@ -1,3 +1,4 @@
-# Propuestas MflowSuite
+﻿# Propuesta Blanco Shop
 
-Paginas de propuestas comerciales, publicadas con GitHub Pages. Cada cliente en su carpeta.
+Propuesta comercial MflowSuite, publicada con GitHub Pages. Fuente en C:\dev\propuestas\blanco-shop (exportar.ps1 regenera index.html).
+
